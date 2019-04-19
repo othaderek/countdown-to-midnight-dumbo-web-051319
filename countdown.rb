@@ -2,5 +2,7 @@
 
 def countdown(i)
   while i > 0 do
-    puts ""
+    puts "#{i} SECOND(S)!"
+  end
+  puts "H"
 end
