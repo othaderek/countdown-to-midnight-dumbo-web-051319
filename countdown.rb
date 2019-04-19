@@ -1,5 +1,6 @@
 #write your code here
 
-def countdown(i)
-  
+def countdown(time)
+  while i < time do
+    puts 
 end
