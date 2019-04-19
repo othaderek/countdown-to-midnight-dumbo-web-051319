@@ -2,5 +2,5 @@
 
 def countdown(time)
   while i < time do
-    puts 
+    puts ""
 end
